@@ -1,0 +1,10 @@
+
+q	java:S116&"WRename this field "CURRENT_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠºÒ…şÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8º©à¸²0
+s
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8»©à¸²0
+z
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8¼©à¸²0
+†
+java:S1128"dRemove this unused import 'org.springframework.security.core.userdetails.UsernameNotFoundException'.(Í£Ö¶ùÿÿÿÿ8¼©à¸²0
